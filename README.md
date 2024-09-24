@@ -6,7 +6,7 @@ The Unique License, versioned, governed and transparent.
 ### Snippets
 Unique does not repeat itself in every repository but instead uses a single source of truth for licensing (this repository). 
 
-The license can then be linked/referenced by using a snippet like the one below.
+The license can then be linked/referenced by using a snippet like the ones below.
 
 > [!TIP]
 > Make sure to add a LICENSE(.md) file to your repository and include the snippet below for either your whole repository (where needed excluding certain folders) or selected folders/products.
