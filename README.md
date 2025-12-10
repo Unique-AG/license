@@ -1,4 +1,6 @@
-The Unique License, versioned, governed and transparent.
+Unique Licenses and Security Policies — versioned, governed, and transparent.
+
+## Unique License
 
 ### Versions
 - [Unique License v1](./unique-license/v1.md)
@@ -23,3 +25,24 @@ Source code in this folder is covered by the "Unique License". The default throu
 
 #### Other combinations
 In case of other combinations, please consult Unique Legal for guidance.
+
+---
+
+## Security Policy
+
+### Versions
+- [Unique Security Policy v1](./security-policy/v1.md)
+
+### Snippets
+Similar to licensing, Unique maintains a single source of truth for security policies.
+
+> [!TIP]
+> Add a SECURITY.md file to your repository and include the appropriate snippet to reference the centralized security policy.
+
+#### Repository
+```markdown
+This repository follows the Unique Security Policy. See the [`Unique Security Policy`](https://github.com/Unique-AG/license/tree/main/security-policy) for vulnerability reporting and security guidelines.
+```
+
+#### Other combinations
+In case of other combinations, please consult Unique Legal or Security for guidance.
